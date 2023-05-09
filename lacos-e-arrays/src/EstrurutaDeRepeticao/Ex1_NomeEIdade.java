@@ -1,4 +1,5 @@
-package br.com.dio.estruturaDeRepeticao;
+package EstrurutaDeRepeticao;
+
 import java.util.Scanner;
 
 /*Faça um programa que leia conjuntos de dois valores,
@@ -13,16 +14,17 @@ public class Ex1_NomeEIdade {
         String nome;
         int idade;
 
-        while(true){
+        while (true) {
             System.out.println("Nome");
             nome = scan.next();
-            if (nome.equals("0")) break;
+            if (nome.equals("0"))
+                break;
 
             System.out.println("Idade");
             idade = scan.nextInt();
-        } 
+        }
 
         System.out.println("Continua aqui...");
-        
+
     }
 }

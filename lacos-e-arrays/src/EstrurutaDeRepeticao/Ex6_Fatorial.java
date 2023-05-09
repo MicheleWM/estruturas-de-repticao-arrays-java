@@ -1,4 +1,5 @@
-package br.com.dio.estruturaDeRepeticao;
+package EstrurutaDeRepeticao;
+
 import java.util.Scanner;
 
 /*Faça um programa que calcule o fatorial de um número inteiro fornecido pelo usuário.
@@ -15,7 +16,7 @@ public class Ex6_Fatorial {
         int multiplicacao = 1;
 
         System.out.print(fatorial + "! = ");
-        for(int i = fatorial ; i >= 1 ; i --) {
+        for (int i = fatorial; i >= 1; i--) {
             multiplicacao = multiplicacao * i;
         }
 
