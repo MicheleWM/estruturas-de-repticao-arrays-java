@@ -1,3 +1,4 @@
+package br.com.dio.estruturaDeRepeticao;
 import java.util.Scanner;
 
 /*Faça um programa que leia 5 números e informe o maior número

@@ -1,3 +1,4 @@
+package br.com.dio.estruturaDeRepeticao;
 import java.util.Scanner;
 
 /*Desenvolva um gerador de tabuada capaz de gerar a tabuada de qualquer número

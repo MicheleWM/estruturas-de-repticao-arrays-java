@@ -1,3 +1,4 @@
+package br.com.dio.estruturaDeRepeticao;
 import java.util.Scanner;
 
 /*Faça um programa que peça uma nota, entre zero e dez.

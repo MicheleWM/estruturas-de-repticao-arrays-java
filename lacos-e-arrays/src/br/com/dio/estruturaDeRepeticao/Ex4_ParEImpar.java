@@ -1,3 +1,4 @@
+package br.com.dio.estruturaDeRepeticao;
 import java.util.Scanner;
 
 /*Faça um programa que peç N números inteiros, calcule e mostre a quantidade de números
